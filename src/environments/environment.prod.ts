@@ -1,0 +1,12 @@
+export const environment = {
+  production: true,
+  firebase: {
+    apiKey: "AIzaSyCVJGFw4o8JE2hBdOV8AwFVYclPcXRAwrM",
+    authDomain: "lets-shop-84546.firebaseapp.com",
+    projectId: "lets-shop-84546",
+    storageBucket: "lets-shop-84546.appspot.com",
+    messagingSenderId: "832547340966",
+    appId: "1:832547340966:web:66326e9f6fe94b1cdcaa67",
+    measurementId: "G-YEHC0V7NBY"
+  },
+};
