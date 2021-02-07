@@ -5,13 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCVJGFw4o8JE2hBdOV8AwFVYclPcXRAwrM",
-    authDomain: "lets-shop-84546.firebaseapp.com",
-    projectId: "lets-shop-84546",
-    storageBucket: "lets-shop-84546.appspot.com",
-    messagingSenderId: "832547340966",
-    appId: "1:832547340966:web:66326e9f6fe94b1cdcaa67",
-    measurementId: "G-YEHC0V7NBY"
+    apiKey: "AIzaSyAarWKhCh3drfBSBmploJpuK5QkXRj2HSQ",
+    authDomain: "lets-shoping.firebaseapp.com",
+    databaseURL: "https://lets-shoping-default-rtdb.firebaseio.com",
+    projectId: "lets-shoping",
+    storageBucket: "lets-shoping.appspot.com",
+    messagingSenderId: "208382085136",
+    appId: "1:208382085136:web:98ec23a513c0dd757b6295",
+    measurementId: "G-98RWFHWP15"
   },
 };
 
